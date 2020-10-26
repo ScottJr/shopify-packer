@@ -372,6 +372,8 @@ This is the fastest method but will often have to be repeated
     2. Click proceed
     
     ![SSL Error 2](./docs/ssl_2.png)
+3. In browser console, you may need to accept assets served from 
+``https://127.0.0.1:3001/`` as well.
 
 #### Create self signed cert
 Create a trusted, self-signed SSL certificate on your device so the 
